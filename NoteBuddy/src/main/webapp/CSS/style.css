@@ -1,0 +1,27 @@
+.purple{
+	background-color:#B00020;
+}
+
+ body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('img/background1.jpg'); /* Background image */
+            background-size: cover;
+            background-position: center;
+            color: #ffffff; /* White text color */
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        h1 {
+            color: #ff0000; /* Red heading color */
+            font-family: Sans-serif;
+        }
+        p {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
